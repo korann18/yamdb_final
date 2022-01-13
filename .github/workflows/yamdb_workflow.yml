@@ -47,7 +47,7 @@ jobs:
           push: true
           no-cache: true
           context: ./api_yamdb/
-          tags: eugenesal/yamdb_final
+          tags: anyapracticum/yamdb_final
   deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
