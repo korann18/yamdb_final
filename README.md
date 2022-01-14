@@ -82,3 +82,7 @@ confirmation_code = 'Тут ваш confirmation_code'
 ```json
 {
   "token": "Тут ваш token"
+}
+```
+Cсылка на развернутый проект:
+http://51.250.7.243/redoc/
